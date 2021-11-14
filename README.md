@@ -6,10 +6,10 @@ A Simple python script designed to check if the website is vulnerable of clickja
 
 # Usage
 
-python(3) clickjacking_Scanner.py <file_name>
+`python(3) clickjacking_Scanner.py <file_name>`
 
 # Example
-python3 clickjacking_Scanner.py sites.txt
+`python3 clickjacking_Scanner.py sites.txt`
 
 # sites.txt [List of domain]
 
