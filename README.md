@@ -13,21 +13,7 @@ A simple python script designed to verify, if the Website is vulnerable of click
 * `www.google.com`
 * `www.demo.testfire.net`
 
+##### Acknowledgements
+A special thanks to @Karim shoair [D4Vinci] for his previous clickjacking-Tester Tool.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-All Credits goes to https://github.com/D4Vinci/Clickjacking-Tester
