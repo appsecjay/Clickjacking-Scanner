@@ -19,6 +19,6 @@ A simple python script designed to verify, if the Website is vulnerable of click
 
 ##### Acknowledgements
 
-  A special thanks to to @Karim shoair [D4Vinci] for creating the original clickjacking Tester Tool. 
+  A special thanks to @Karim shoair [D4Vinci] for creating the original "clickjacking Tester" Tool. 
 
 
