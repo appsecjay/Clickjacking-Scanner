@@ -1,6 +1,10 @@
 # Clickjacking-Scanner
-A simple python script designed to verify, if the Website is vulnerable of clickjacking and creates a POC.
+A simple python script designed to verify, if the Website is vulnerable of clickjacking and creates a POC. This tool is particular usefull for bug bounty hunters with huge domain list.
 
+## Demo
+  
+ https://www.youtube.com/watch?v=J2VKLjT5qtA
+ 
 ## Usage
 
 <copy-button>`python(3) clickjacking_Scanner.py <file_name>`</copy-button>
@@ -12,11 +16,9 @@ A simple python script designed to verify, if the Website is vulnerable of click
 
 * `www.google.com`
 * `www.demo.testfire.net`
-## Demo
-  
- https://www.youtube.com/watch?v=J2VKLjT5qtA
 
 ##### Acknowledgements
-A special thanks to @Karim shoair [D4Vinci] for his previous clickjacking-Tester Tool.
+
+  A special thanks to to @Karim shoair [D4Vinci] for creating the original clickjacking Tester Tool. 
 
 
