@@ -9,7 +9,7 @@ def check(url):
     ''' Verify given URL is vulnerable or not '''
 
     try:
-        if ("http" or "https") not in url: url = "https://" + url
+        if "http" not in url: url = "https://" + url
 
         data = urlopen(url)
         headers = data.info()
